@@ -1,0 +1,45 @@
+
+/*UNIVERSAL CSS*/
+body{
+	/*background-image:url(login.jpg);*/
+	/*background-size:cover;*/
+	
+}
+.h1{
+	color:black;
+	text-align:center;
+}
+.h2{
+	color:black;
+	text-align:center;
+	font-family:sans-serif;
+}
+.lanjut{
+	background-color:#C9302C;
+	color:black;
+	width:235px;
+	height:35px;
+}
+.masuk{
+	background-color:#31B0D5;
+	width:235px;
+	height:35px;
+}
+.input{
+	width:228px;
+	height:25px;
+}
+/*LOgin*/
+.tabelIN{
+	padding:1em;
+}.tabel
+/*daftar2*/
+.header{
+	padding-top:1em;
+}
+/*daftar3*/
+.gantifp{
+	width:235px;
+	height:35px;
+	
+}
